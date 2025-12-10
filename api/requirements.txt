@@ -1,0 +1,7 @@
+fastapi
+mangum
+sentence-transformers
+scikit-learn
+numpy
+pandas
+torch
